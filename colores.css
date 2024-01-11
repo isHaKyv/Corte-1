@@ -1,0 +1,39 @@
+*{
+    background-color: white;
+    align-items: center;
+    margin-left: 250px;
+
+
+}
+ .Rojo {
+    margin-top: 100px;
+    background-color: red;
+    display: flex;
+    margin-left: 15px;
+    height: 500px;
+    width: 500px 
+    
+    ;
+ }
+
+ .Azul {
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 95px;
+
+ }
+ 
+ .Verde {
+    background-color: green;
+    display: flex;
+    align-items: center;
+    height: 150px;
+    width: 150px ;
+    border: 2.5px solid #ffff ;
+    border-radius: 100%;
+    margin-left: 73px;
+ }
